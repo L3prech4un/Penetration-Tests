@@ -1,0 +1,68 @@
+<center><html>
+        <head>
+        <title>EyeWitness Report Table of Contents</title>
+        </head>
+        <h2>Table of Contents</h2><li><a href="report.html#uncat">Uncategorized (Page 1)</a></li></ul><br><br><table class="table"><tr><td>Uncategorized</td><td>1</td><tr><td>Errors</td><td>0</td></tr><tr><th>Total</th><td>1</td></tr></table><br><br></center><html>
+        <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css"/>
+        <title>EyeWitness Report</title>
+        <script src="jquery-1.11.3.min.js"></script>
+        <script type="text/javascript">
+        function toggleUA(id, url){
+        idi = "." + id;
+        $(idi).toggle();
+        change = document.getElementById(id);
+        if (change.innerHTML.indexOf("expand") > -1){
+            change.innerHTML = "Click to collapse User Agents for " + url;
+        }else{
+            change.innerHTML = "Click to expand User Agents for " + url;
+        }
+        }
+
+        document.onkeydown = function(event){
+            event = event || window.event;
+            switch (event.keyCode){
+                case 37:
+                    leftArrow();
+                    break;
+                case 39:
+                    rightArrow();
+                    break;
+            }
+        };
+                
+        function leftArrow(){
+            $('#previous')[0].click();
+        };
+
+        function rightArrow(){
+            $('#next')[0].click();
+        };
+
+        </script>
+        </head>
+        <body>
+        <center>
+        <center>Report Generated on 2025/02/23 at 21:10:55</center><h2 id="uncat">Uncategorized</h2><table border="1">
+        <tr>
+        <th>Web Request Info</th>
+        <th>Web Screenshot</th>
+        </tr><tr>
+            <td><div style="display: inline-block; width: 300px; word-wrap: break-word">
+            <a href="http://titanic.htb/" target="_blank">http://titanic.htb/</a><br>
+            <b>Resolved to:</b> 10.129.235.206<br>
+<br><b> Page Title: </b>Titanic - Book Your Ship Trip
+<br><b> Date:</b> Mon, 24 Feb 2025 02:10:58 GMT
+<br><b> Server:</b> Werkzeug/3.0.3 Python/3.10.12
+<br><b> Content-Type:</b> text/html; charset=utf-8
+<br><b> Content-Length:</b> 7399
+<br><b> Vary:</b> Accept-Encoding
+<br><b> Connection:</b> close
+<br><b> Response Code:</b> 200
+<br><br><a href="source/http.titanic.htb..txt"
+                target="_blank">Source Code</a></div></td>
+                <td><div id="screenshot"><a href="screens/http.titanic.htb..png"
+                target="_blank"><img src="screens/http.titanic.htb..png"
+                height="400"></a></div></td></tr></div>
+        </div></table><br></table><br></body>
+</html>

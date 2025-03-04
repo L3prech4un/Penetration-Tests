@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "82398650887f0a6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2481096c58d68554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7fc09fb3e292ed1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foothold/Logging in.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Logging in"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9aee7f76f3950ed5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bfabfbfdc6f0a41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "235be3ecdf47ddc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cac08e0ae5a2857f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1d52ce5073927fda",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1f40fcd03fc2029d",
+    "type": "split",
+    "children": [
+      {
+        "id": "674b3d20dd73fe99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60813e9a128f7a9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Foothold/Logging in.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Logging in"
+            }
+          },
+          {
+            "id": "b1854e83737942e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Initial Enumeration.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Initial Enumeration"
+            }
+          },
+          {
+            "id": "56291332b8269819",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "91aafa4cdf950de2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Initial Enumeration.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Initial Enumeration"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "235be3ecdf47ddc1",
+  "lastOpenFiles": [
+    "Foothold 1/table login credentials.png",
+    "Foothold 1/ssh.png",
+    "Foothold 1/curl gitea.db.png",
+    "Foothold 1/sqlite3 database.png",
+    "Foothold 1/hash-cracked.png",
+    "Foothold 1/hash algorithm.png",
+    "Foothold 1/gitea.db tables.png",
+    "Foothold 1/Local File Inclusion Exploitation.md",
+    "Foothold 1/column names.png",
+    "Foothold 1/app.ini.png",
+    "Foothold 1/Table dump.png",
+    "Foothold 1/Successful Login.png",
+    "Foothold 1/Password Cracking.md",
+    "Foothold 1/Logging in.md",
+    "Foothold 1/Database Analysis.md",
+    "Foothold 1",
+    "2025-03-04.md",
+    "Foothold/Logging in.md",
+    "Privilege escalation/Exploiting ImageMagick.md",
+    "Privilege escalation/Gathering information to escalate privileges.md",
+    "Privilege escalation",
+    "Foothold/Password Cracking.md",
+    "Untitled.md",
+    "Foothold/Database Analysis.md",
+    "Foothold/Local File Inclusion Exploitation.md",
+    "Initial Enumeration/Enumerating dev.titanic.htb.md",
+    "Initial Enumeration/Enumerating Website.md",
+    "Initial Enumeration/Directory Busting.md",
+    "Initial Enumeration/Nmap.md",
+    "Foothold",
+    "Initial Enumeration/report.html",
+    "Initial Enumeration/http.dev.titanic.htb 2.txt",
+    "Initial Enumeration/http.dev.titanic.htb 1.txt",
+    "Initial Enumeration/http.dev.titanic.htb.txt",
+    "Untitled.canvas",
+    "report.html",
+    "Initial Enumeration",
+    "test.md"
+  ]
+}
